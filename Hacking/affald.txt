@@ -1,0 +1,18 @@
+Doing forensics on the app affaldsportalen in order to gain insight in how the public domain do their apps.
+
+main domain?
+: 	servicesgh.renoweb.dk
+:	/v1_13/
+:	/v1_13/AFP2
+
+Sms service
+:
+	https://mobilepages2.renoweb.dk/SMSService/Index
+
+Documentation of APIs
+http://servicesgh.renoweb.dk/v1_13/
+
+
+@me
+API Key : FE1218AD-3F68-4381-88BB-4FA1162F82E8
+adrid 	: 28857

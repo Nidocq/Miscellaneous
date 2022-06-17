@@ -1,0 +1,15 @@
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/bin/Debug/net6.0/Interface_training
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/bin/Debug/net6.0/Interface_training.deps.json
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/bin/Debug/net6.0/Interface_training.runtimeconfig.json
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/bin/Debug/net6.0/Interface_training.dll
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/bin/Debug/net6.0/Interface_training.pdb
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.csproj.AssemblyReference.cache
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.AssemblyInfoInputs.cache
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.AssemblyInfo.cs
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.csproj.CoreCompileInputs.cache
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.dll
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/refint/Interface_training.dll
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.pdb
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/Interface_training.genruntimeconfig.cache
+/Users/liema/Documents/Miscellaneous/C#/Interface_training/obj/Debug/net6.0/ref/Interface_training.dll

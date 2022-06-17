@@ -1,0 +1,15 @@
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.csproj.AssemblyReference.cache
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.AssemblyInfoInputs.cache
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.AssemblyInfo.cs
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.csproj.CoreCompileInputs.cache
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/bin/Debug/net6.0/Smoothie
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/bin/Debug/net6.0/Smoothie.deps.json
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/bin/Debug/net6.0/Smoothie.runtimeconfig.json
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/bin/Debug/net6.0/Smoothie.dll
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/bin/Debug/net6.0/Smoothie.pdb
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.dll
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/refint/Smoothie.dll
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.pdb
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/Smoothie.genruntimeconfig.cache
+/Users/liema/Documents/Miscellaneous/C#/Smoothie/obj/Debug/net6.0/ref/Smoothie.dll
