@@ -1,1 +1,9 @@
+Hacking
 **/*.DS_Store
+Python/JournalMood/journal.csv
+Adobe DE to PDF/*
+**/*.h
+**/*.ovpn
+**/metadata.json
+**/config.json
+**/tests.out.dSYM
