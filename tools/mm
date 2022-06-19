@@ -1,0 +1,7 @@
+# Phillip Lundin - Jun 19
+# Automatic compile and run program - Compiles, runs and deletes header file after use.
+
+gcc $1 -o a.out
+chmod +x a.out
+./a.out
+rm a.out

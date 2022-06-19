@@ -3,7 +3,13 @@ Hacking
 Python/JournalMood/journal.csv
 Adobe DE to PDF/*
 **/*.h
+**/*.out
 **/*.ovpn
 **/metadata.json
 **/config.json
+**/settings.json
 **/tests.out.dSYM
+**/unity.c
+**/HELP.md
+**/makefile
+**/test*
